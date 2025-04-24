@@ -30,7 +30,7 @@ That said — I’m planning to **revive, expand, and modernize** this project. 
 - Responsive and modern UI/UX
 - Integration with payment systems
 - Testing suite
-- + Everything from **TODO.md**
+- Everything from **TODO.md**
 
 ## 📝 Note
 If you’re here exploring this repo, please know that:
