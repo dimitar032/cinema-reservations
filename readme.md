@@ -14,6 +14,7 @@ That said — I’m planning to **revive, expand, and modernize** this project. 
 ![Screenshot from 2025-04-23 17-27-12](https://github.com/user-attachments/assets/37876869-13c0-465c-b945-1c3ee912292f)
 ![Screenshot from 2025-04-23 18-46-15](https://github.com/user-attachments/assets/160245b3-f5b8-481f-977d-ef150c29e826)
 ![Screenshot from 2025-04-23 18-47-09](https://github.com/user-attachments/assets/0b88db89-c870-449f-bd2a-e549947c8001)
+![Screenshot from 2025-05-04 11-29-33](https://github.com/user-attachments/assets/6202d3d7-1555-4dfb-a299-760fa66b5bae)
 
 ## 📦 Tech Stack (Original - 2017)
 - PHP 7
